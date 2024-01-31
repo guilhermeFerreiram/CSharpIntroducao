@@ -59,5 +59,5 @@
 <br>
 <h2 align="center" id="license">:page_with_curl: Licença</h2>
 
-<p align="center"><a href="https://github.com/FelipePDS/csharp/blob/main/LICENSE">MIT License</a> &nbsp;&bull;&nbsp; &copy; guilhermeFerreiram</p>
+<p align="center"><a href="https://github.com/guilhermeFerreiram/CSharpIntroducao/blob/master/LICENSE">MIT License</a> &nbsp;&bull;&nbsp; &copy; guilhermeFerreiram</p>
  
