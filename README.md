@@ -48,6 +48,12 @@
     <td>09/01/2024</td>
     <td>:heavy_check_mark:</td>
   </tr>
+  <tr align="center">
+    <td><kbd><a href="https://github.com/guilhermeFerreiram/CSharpIntroducao/tree/master/Curso-Bibliotecas">Trabalhando com bibliotecas</a></kbd></td>
+    <td>Tem como principal objetivo a integração de bibliotecas externas por meio de DLLs, assim como a instalação e gestão de pacotes NuGet. Este projeto prático visa fornecer uma compreensão sólida sobre como incorporar bibliotecas de terceiros, explorando, também, como determianr os níveis de visibilidade no código C#.</td>
+    <td>02/02/2024</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
 </table>
 
 <br>
