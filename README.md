@@ -9,7 +9,8 @@
 <h2 align="center">Tópicos</h2>
 
 <p align="center">
-  <a href="#objective">:dart: Objetivo</a> &bull;  
+  <a href="#objective">:dart: Objetivo</a> &bull;
+  <a href="#clone">:open_file_folder: Clone o Repositório</a> &bull;
   <a href="#exercises">:pushpin: Mini Projetos</a> &bull; 
   <a href="#author">:bust_in_silhouette: Autor</a> &bull; 
   <a href="#license">:page_with_curl: Licença</a>
@@ -19,6 +20,19 @@
 <h2 id="objective" align="center">:dart: Objetivo</h2>
 
 <p align="center">Criar Mini Projetos para aplicar conceitos importantes da linguagem C#, como Orientação a Objetos, Maniupulação de Arquivos, API´s e mais.</p>
+
+<br>
+<h2 id="clone">:open_file_folder: Clone o Repositório</h2>
+
+<p>Para clonar o repositório, certifique-se de possuir o <kbd><a href="https://git-scm.com/downloads">Git</a></kbd> instalado em seu em seu computador...</p>
+
+``` bash
+#Crie uma pasta onde irá clonar o repositório
+$ mkdir name-dir && cd name-dir
+
+# Clone todo o repositório
+$ git clone https://github.com/guilhermeFerreiram/CSharpIntroducao.git
+```
 
 <br>
 <h2 id="exercises" align="center">:pushpin: Mini Projetos</h2>
